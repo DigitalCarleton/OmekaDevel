@@ -4,7 +4,9 @@ This plugin enables Kint PHP debugging in your Omeka site.
 
 ## Installation:
 
-Install and activate this plugin on your Omeka site
+Install and activate this plugin on your Omeka site.
+
+You now have access to Kint commands when working on any PHP file within the site.
 
 ## Usage (from [Kint](https://github.com/kint-php/kint)):
 
