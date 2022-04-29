@@ -1,7 +1,7 @@
 <?php
 
 
-class OmekaKintPlugin extends Omeka_Plugin_AbstractPlugin
+class OmekaDevelPlugin extends Omeka_Plugin_AbstractPlugin
 {
     protected $_hooks = array('initialize');
 
