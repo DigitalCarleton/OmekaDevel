@@ -1,4 +1,4 @@
-# Omeka Kint
+# Omeka Devel
 
 This plugin enables Kint PHP debugging in your Omeka site.
 
